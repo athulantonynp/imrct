@@ -1,0 +1,23 @@
+.login-root{
+    height: 100%;
+    width: 100%;
+    background-color: #212121;
+    display: flex;
+    align-items: center;
+    justify-content: center 
+}
+
+.login-card-root{
+    width: fit-content;
+    height: fit-content;
+    padding: 16px;
+    overflow: hidden !important;
+    border-radius: 12px !important;
+    background-color: whitesmoke !important;
+
+}
+
+.btn-login{
+    margin-top: 16px !important;
+    background: #212121 !important;
+}

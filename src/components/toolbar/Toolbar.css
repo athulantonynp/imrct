@@ -1,0 +1,26 @@
+.root{
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 56px;
+}
+
+.navbar{
+    background-color: black;
+    -webkit-box-shadow: 0 8px 6px -6px #2e2d2d;
+    -moz-box-shadow: 0 8px 6px -6px #2e2d2d;
+    box-shadow: 0 8px 6px -6px #2e2d2d;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.brand-logo{
+    margin-right: 8px;
+}
